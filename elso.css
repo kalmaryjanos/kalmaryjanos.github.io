@@ -1,0 +1,98 @@
+body 
+{
+    background-image: url("background_1.jpeg");
+    background-color: antiquewhite; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.threeofthem
+{
+    width: 150px;
+    height: 150px;
+    margin: 0px;
+    border-radius: 50% ;
+}
+
+.rock_paper_scissor
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    align-items: center; 
+    margin: auto;
+    height: 150px;
+    width: 458px;
+}
+
+.title
+{
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+button
+{
+    border: none;
+}
+
+.computer
+{
+    float: left;
+    height: 150px;
+    width: 264px;
+}
+
+.side_title_left
+{
+    margin-right: 80%;
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+
+.player
+{
+    margin-top: -1px;
+    float: right;
+    height: 150px;
+    width: 264px;
+    
+}
+
+
+.side_title_right
+{
+   
+    margin-top: -85px;
+    margin-left: 80%;
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+#num_1
+{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+#num_2
+{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 50px;
+
+}
